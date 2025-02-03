@@ -34,3 +34,5 @@ echo david mcglue 21147141 >> README.md
 echo "[lab repo] (https://github.com/barkingdavetron/devops-lab-2-task)" >> README.md
 echo --- >> README.md
 echo "To run script.sh run: \`bash script.sh\`" >> README.md
+
+echo job done
